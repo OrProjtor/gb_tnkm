@@ -53,7 +53,7 @@ all `docker` commands in this guide with `sudo`.
     ```shell
     docker run -it -v $(pwd)/experiments:/app/experiments --name gb-tnkm gb-tnkm-project
     ```
-3. **You are all set to reproduce the Numerical Experiments 🤗
+3. **You are all set to reproduce the Numerical Experiments** 🤗
 
 4. **Re-enter** the same container:
     ```shell
